@@ -36,6 +36,7 @@ Este proyecto analiza datos de viajes en taxi en Chicago (2017), aplicando técn
 
 ## 📂 Archivos
 - `sprint8_chicago_taxi.ipynb` → Notebook con todo el análisis paso a paso.
+- `data/` → Archivos CSV con los datasets originales.
 
 ---
 
